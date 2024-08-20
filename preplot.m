@@ -1,7 +1,7 @@
-set(groot,'DefaultTextInterpreter', 'LaTeX');
-set(groot,'DefaultAxesTickLabelInterpreter','LaTeX'); 
-set(groot,'DefaultLegendInterpreter','LaTeX');
-set(groot,'DefaultAxesFontName', 'LaTeX');
+% set(groot,'DefaultTextInterpreter', 'LaTeX');
+% set(groot,'DefaultAxesTickLabelInterpreter','LaTeX'); 
+% set(groot,'DefaultLegendInterpreter','LaTeX');
+% set(groot,'DefaultAxesFontName', 'LaTeX');
 
 set(groot,'DefaultLineLineWidth',1.5);
 set(groot,'DefaultAxesLineWidth',2);
